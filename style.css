@@ -23,7 +23,7 @@
 
 .empresa {
     font-size: 4rem;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: rgb(114, 31, 31);
 }
 
@@ -38,10 +38,10 @@
     
 }
 
-.xd {
+.div {
     margin-top: 4rem;
     display: flex;
-    grid-gap: 16rem;
+    grid-gap: 4rem;
 }
 
 .aside {
@@ -50,7 +50,49 @@
     padding: 4rem;
 }
 
+.section {
+    background-color: rgb(0, 221, 221);
+    display: flex;
+    grid-gap: 3rem;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.img1{
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+
+.img2{
+    margin-top: 2rem;
+}
+
+.img3{
+    margin-top: 2rem;
+}
+
+.img4{
+    margin-top: 2rem;
+}
+
+.img5{
+    margin-top: 2rem;
+}
+
+.img6{
+    margin-top: 2rem;
+}
+
+.img7{
+    margin-top: 2rem;
+}
+
+.img8{
+    margin-top: 2rem;
+}
+
 a {
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(255, 230, 0);
 }
