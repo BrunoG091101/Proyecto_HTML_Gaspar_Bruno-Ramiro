@@ -6,7 +6,7 @@
 }
 
 .header {
-    background-color: #50AFBE;
+    background-color: rgb(167, 123, 83);;
     border-radius: 2rem;
     border-style: solid;
     border-color: blanchedalmond;
@@ -24,7 +24,7 @@
 .empresa {
     font-size: 4rem;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: #BE5F50;
+    color: #000000;
 }
 
 .navegacion {
@@ -40,7 +40,7 @@
 
 .menu_options {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #2EBBFF;
+    color: #000000;
 }
 
 .div {
@@ -91,11 +91,11 @@
 
 .item_description {
     text-align: center;
-    color: #52DBDA;
+    color: #000000;
 }
 
 .item_name {
-    color: #52DBDA;
+    color: #00ff80;
 }
 
 footer {
