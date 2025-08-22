@@ -16,8 +16,8 @@
 .imagen1 {
     height: 180px;
     width: 180px;
-    border-top-left-radius: 8rem;
-    border-bottom-left-radius: 6rem;
+    border-top-left-radius: 9rem;
+    border-bottom-left-radius: 9rem;
     border-bottom-right-radius: 9rem;
     background-color: red;
     display: flex;
@@ -29,26 +29,28 @@
 .imagen2 {
     height: 240px;
     width: 240px;
-    border-radius: 100%;
+    border-top-left-radius: 9rem;
+    border-top-right-radius: 9rem;
+    border-bottom-right-radius: 9rem;
     background-color: rgb(0, 255, 98);
     display: flex;
     justify-content: center;
     align-items: center;
     position: absolute;
-    transform: translate(135px,-90px);
+    transform: translate(135px, -135px);
     z-index: 1;
 }
 .imagen3 {
     height: 135px;
     width: 135px;
-    border-top-left-radius: 8rem;
-    border-bottom-left-radius: 6rem;
+    border-top-left-radius: 9rem;
+    border-bottom-left-radius: 9rem;
     border-bottom-right-radius: 9rem;
     background-color: blue;
     display: flex;
     justify-content: center;
     align-items: center;
     position: absolute;
-    transform: translate(-90px,90px);
+    transform: translate(-90px, 90px);
     z-index: 3;
 }
